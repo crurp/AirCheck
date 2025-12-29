@@ -11,13 +11,13 @@ set -euo pipefail  # Exit on error, undefined vars, pipe failures
 # ============================================================================
 
 # Email address - Set via environment variable for security
-# Usage: export AIRCHECK_EMAIL="your-email@example.com" before running
-# Or set it here (less secure, but convenient for testing)
-: "${AIRCHECK_EMAIL:=ethancchow@gmail.com}"
+# The email address should be configured globally in ~/.bashrc
+# Usage: export AIRCHECK_EMAIL="your-email@example.com" in ~/.bashrc
 
 # Validate email is set
-if [[ -z "${AIRCHECK_EMAIL}" ]]; then
+if [[ -z "${AIRCHECK_EMAIL:-}" ]]; then
     echo "Error: AIRCHECK_EMAIL environment variable is not set" >&2
+    echo "Please set it in ~/.bashrc: export AIRCHECK_EMAIL=\"your-email@example.com\"" >&2
     exit 1
 fi
 

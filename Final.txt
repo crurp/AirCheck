@@ -1,9 +1,10 @@
-http://www.secretflying.com/2016/error-fare-open-jaw-south-america-europe-usa-248-usd|ERROR FARE: OPEN-JAW FROM SOUTH AMERICA TO EUROPE THEN TO THE USA FROM ONLY $248 USD
-http://www.secretflying.com/2016/non-stop-boston-lisbon-portugal-459-roundtrip|NON-STOP FROM BOSTON TO LISBON, PORTUGAL FOR ONLY $459 ROUNDTRIP
-http://www.secretflying.com/2016/portland-to-beijing-china-for-only-496-roundtrip|PORTLAND TO BEIJING, CHINA FOR ONLY $496 ROUNDTRIP
-http://www.secretflying.com/2016/hot-new-york-turks-caicos-58-one-way|NEW YEAR: NEW YORK TO TURKS & CAICOS FOR ONLY $294 ROUNDTRIP
-http://www.secretflying.com/2016/last-minute-new-york-to-trinidad-for-only-312-roundtrip|NON-STOP FROM NEW YORK TO TRINIDAD FOR ONLY $296 ROUNDTRIP
-http://www.secretflying.com/2016/seattle-glasgow-scotland-537-roundtrip|SEATTLE TO GLASGOW, SCOTLAND FOR ONLY $537 ROUNDTRIP
-http://www.secretflying.com/2016/east-coast-usa-aguadilla-puerto-rico-103-roundtrip|EAST COAST USA TO AGUADILLA, PUERTO RICO FROM ONLY $103 ROUNDTRIP
-http://www.secretflying.com/2016/non-stop-new-york-tokyo-japan-613-roundtrip|NEW YORK TO TOKYO, JAPAN FOR ONLY $523 ROUNDTRIP
-http://www.secretflying.com/2016/last-minute-chicago-to-singapore-for-only-514-roundtrip|CHICAGO TO SINGAPORE FOR ONLY $548 ROUNDTRIP
+https://www.secretflyer.com/miami-fl-usa-mia-madrid-spain-mad-from-342-round-trip/|Miami FL USA (MIA) - Madrid Spain (MAD) from $342 Round Trip
+https://www.secretflyer.com/new-york-ny-usa-ewr-paris-france-ory-from-213-round-trip/|New York NY USA (EWR) - Paris France (ORY) from $213 Round Trip
+https://www.secretflyer.com/lima-peru-lim-miami-fl-usa-fll-round-trip/|Lima Peru (LIM) - Miami FL USA (FLL) from $281 Round Trip
+https://www.secretflyer.com/cape-town-south-africa-cpt-rome-italy-fco-round-trip/|Cape Town South Africa (CPT) - Rome Italy (FCO) from 6,521 ZAR Round Trip
+https://www.secretflyer.com/sydney-australia-syd-honolulu-hi-usa-hnl-round-trip-june-2016/|Sydney Australia (SYD) - Honolulu HI USA (HNL) from $498 AUD Round Trip
+https://www.secretflyer.com/san-diego-ca-usa-san-chicago-il-usa-ord-round-trip-april-2016/|San Diego CA USA (SAN) - Chicago IL USA (ORD) from $96 Round Trip
+https://www.secretflyer.com/vancouver-bc-canada-yvr-honolulu-hi-hnl-round-trip-april-2016/|Vancouver BC Canada (YVR) - Honolulu HI USA (HNL) from $404 CAD Round Trip
+https://www.secretflyer.com/tel-aviv-israel-tlv-bangkok-thailand-bkk-round-trip-april-2016/|Tel Aviv Israel (TLV) - Bangkok Thailand (BKK) from $568 Round Trip
+https://www.secretflyer.com/vancouver-canada-yvr-los-angeles-ca-usa-lax-round-trip-april-2016/|Vancouver BC Canada (YVR) - Los Angeles CA USA (LAX) from $216 CAD Round Trip
+https://www.secretflyer.com/sxf-bru-24-euros-roundtrip-april-2016/|Berlin Germany (SXF) - Brussels Belgium (BRU) from €24 Round Trip

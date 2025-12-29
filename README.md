@@ -12,7 +12,7 @@ Flight deal monitoring script that watches SecretFlying.com for deals to specifi
 
 ## Security
 
-The script uses an environment variable for the email address to avoid hardcoding sensitive information. The default email is `ethancchow@gmail.com`, but you can override it securely.
+The script uses an environment variable for the email address to avoid hardcoding sensitive information. The email address is stored as a global environment variable on the system.
 
 ## Setup
 
@@ -21,12 +21,19 @@ The script uses an environment variable for the email address to avoid hardcodin
    chmod +x aircheck.sh
    ```
 
-2. Set the email address (recommended - more secure):
-   ```bash
-   export AIRCHECK_EMAIL="your-email@example.com"
-   ```
-
-   Or edit the script directly (line 19) if you prefer (less secure).
+2. Email address is configured globally:
+   - The email address must be stored in `~/.bashrc` and `~/.profile`
+   - To set it, edit the `AIRCHECK_EMAIL` variable in `~/.bashrc`:
+     ```bash
+     export AIRCHECK_EMAIL="your-email@example.com"
+     ```
+   - Then reload your shell configuration:
+     ```bash
+     source ~/.bashrc
+     ```
+   
+   The script will automatically use this global variable. No need to export it each time you run the script.
+   **Note:** The email address is not stored in any script files for security.
 
 3. Ensure you have a mail client configured on your system:
    - `mail` command (usually via `mailutils` or `mailx`)

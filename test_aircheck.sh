@@ -4,8 +4,12 @@
 
 set -euo pipefail
 
-# Email configuration
-: "${AIRCHECK_EMAIL:=ethancchow@gmail.com}"
+# Email configuration - from global environment variable
+if [[ -z "${AIRCHECK_EMAIL:-}" ]]; then
+    echo "Error: AIRCHECK_EMAIL environment variable is not set" >&2
+    echo "Please set it in ~/.bashrc: export AIRCHECK_EMAIL=\"your-email@example.com\"" >&2
+    exit 1
+fi
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR" || exit 1
